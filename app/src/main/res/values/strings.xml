@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Light On</string>
+    <string name="signin_failure">Sign in failure</string>
+
+    <string name="app_id">319626101996</string>
+    <string name="package_name">com.intrusoft.lightsonpuzzle</string>
+    <string name="level_1">CgkI7InN2aYJEAIQAA</string>
+    <string name="level_2">CgkI7InN2aYJEAIQBw</string>
+    <string name="level_3">CgkI7InN2aYJEAIQCA</string>
+    <string name="level_4">CgkI7InN2aYJEAIQCQ</string>
+    <string name="level_5">CgkI7InN2aYJEAIQCg</string>
+</resources>
